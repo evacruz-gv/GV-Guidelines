@@ -1,4 +1,4 @@
-# Go-Virtual-Sitios Web
+# GV Guidelines
 
 En este repositorio puedes encontrar una lista de links a recursos útiles para el desarrollo de páginas y sitios web en el CMS de DealerOn
 
